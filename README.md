@@ -2,16 +2,9 @@
 
 ## QA Automation Engineer (Java)
 
-<p>
-🔧 <b>Стек:</b> Java | Selenide | JUnit 5 | Gradle | Allure | Jenkins | Selenoid<br>
-📫 <a href="https://github.com/MakeleevM">GitHub</a> | 
-📧 m.makeleev27@gmail.com | 
-<a href="https://t.me/Mace133v">Telegram</a>
-</p>
-
 ---
 
-### 🛠 Мои инструменты и технологии:
+### 🛠 Стек технологий:
 
 <p align="center">
   <img width="6%" title="IntelliJ IDEA" src="media/logo/Intelij_IDEA.svg">
@@ -30,13 +23,13 @@
 
 ---
 
-### 📊 GitHub Статистика:
+### 📊 Статистика:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MakeleevM&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MakeleevM&show_icons=true&theme=default)
 
 ---
 
-### 📂 Мои проекты:
+### 📂 Проекты:
 
 | Проект | Описание | Стек |
 |--------|----------|------|
@@ -46,6 +39,14 @@
 
 ### 📫 Контакты:
 
-- ✉️ Email: [m.makeleev27@gmail.com](mailto:m.makeleev27@gmail.com)
-- 💬 Telegram: [@Mace133v](https://t.me/Mace133v)
-- 🐙 GitHub: [MakeleevM](https://github.com/MakeleevM)
+<p>
+  <a href="mailto:m.makeleev27@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email-m.makeleev27%40gmail.com-blue" alt="Email">
+  </a>
+  <a href="https://t.me/Mace133v">
+    <img src="https://img.shields.io/badge/💬_Telegram-%40Mace133v-blue" alt="Telegram">
+  </a>
+  <a href="https://github.com/MakeleevM">
+    <img src="https://img.shields.io/badge/🐙_GitHub-MakeleevM-black" alt="GitHub">
+  </a>
+</p>
