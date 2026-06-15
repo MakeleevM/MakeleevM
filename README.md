@@ -2,7 +2,6 @@
   <h1>Привет, я Максат 👋</h1>
   <h3>QA Automation Engineer (Java)</h3>
 </div>
----
 
 ### 🛠 Стек технологий:
 
