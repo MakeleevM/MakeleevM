@@ -1,7 +1,6 @@
-<div align="center">
-  <h1>Привет, я Максат 👋</h1>
-  <h3>QA Automation Engineer (Java)</h3>
-</div>
+<h1>Привет, я <a href="(https://github.com/MakeleevM)" target="_blank">Максат</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3>Я  QA Automation Engineer (Java)</h3>
 
 ### 🛠 Стек технологий:
 
