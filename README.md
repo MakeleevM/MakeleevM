@@ -3,10 +3,6 @@
   <h3>QA Automation Engineer (Java)</h3>
 </div>
 
-<p align="center">
-   <img src="media/logo/benderfrai-logo.svg" width="500" alt="Benderfrai">
-</p>
-
 ### 🛠 Стек технологий:
 
 <p align="center">
