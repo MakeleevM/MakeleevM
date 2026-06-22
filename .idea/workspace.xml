@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69f058c4-3f6d-47ca-ba3d-15139e53c841" name="Changes" comment="fix HW2">
+    <list default="true" id="69f058c4-3f6d-47ca-ba3d-15139e53c841" name="Changes" comment="fix HW6">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/logo/benderfrai-logo.svg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +146,39 @@
       <option name="project" value="LOCAL" />
       <updated>1782129158761</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="fix HW3">
+      <option name="closed" value="true" />
+      <created>1782129964056</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1782129964056</updated>
+    </task>
+    <task id="LOCAL-00012" summary="fix HW4">
+      <option name="closed" value="true" />
+      <created>1782130066853</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1782130066853</updated>
+    </task>
+    <task id="LOCAL-00013" summary="fix HW5">
+      <option name="closed" value="true" />
+      <created>1782130103794</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1782130103794</updated>
+    </task>
+    <task id="LOCAL-00014" summary="fix HW6">
+      <option name="closed" value="true" />
+      <created>1782130473919</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1782130473919</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -157,7 +190,11 @@
     <MESSAGE value="fix HW" />
     <MESSAGE value="fix HW1" />
     <MESSAGE value="fix HW2" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix HW2" />
+    <MESSAGE value="fix HW3" />
+    <MESSAGE value="fix HW4" />
+    <MESSAGE value="fix HW5" />
+    <MESSAGE value="fix HW6" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix HW6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
