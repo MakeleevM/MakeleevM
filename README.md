@@ -45,19 +45,19 @@
 
 <p>
   <a href="https://jenkins.autotests.cloud/view/java_students/job/41-Mace133v-Unit14/">
-    <img src="https://img.shields.io/badge/🔧_Сборка_в_Jenkins-перейти-blue?style=for-the-badge" alt="Jenkins Build">
+    <img src="https://img.shields.io/badge/🔧_Сборка_в_Jenkins-перейти-blue" alt="Jenkins Build">
   </a>
   <br>
   <a href="https://jenkins.autotests.cloud/view/java_students/job/41-Mace133v-Unit14/4/allure/">
-    <img src="https://img.shields.io/badge/📊_Allure_Report-перейти-blue?style=for-the-badge" alt="Allure Report">
+    <img src="https://img.shields.io/badge/📊_Allure_Report-перейти-blue" alt="Allure Report">
   </a>
   <br>
   <a href="https://allure.autotests.cloud/">
-    <img src="https://img.shields.io/badge/📋_Allure_TestOps-перейти-blue?style=for-the-badge" alt="Allure TestOps">
+    <img src="https://img.shields.io/badge/📋_Allure_TestOps-перейти-blue" alt="Allure TestOps">
   </a>
   <br>
   <a href="https://jira.autotests.cloud/">
-    <img src="https://img.shields.io/badge/📝_Jira-перейти-blue?style=for-the-badge" alt="Jira">
+    <img src="https://img.shields.io/badge/📝_Jira-перейти-blue" alt="Jira">
   </a>
 </p>
 
