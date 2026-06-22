@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="media/logo/benderfrai-logo.svg" width="12%" alt="Benderfrai">
+   <img src="media/logo/benderfrai-logo.svg" width="500" alt="Benderfrai">
 </p>
 
 ### 🛠 Стек технологий:
