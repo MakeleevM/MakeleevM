@@ -52,11 +52,11 @@
     <img src="https://img.shields.io/badge/📊_Allure_Report-перейти-blue" alt="Allure Report">
   </a>
   <br>
-  <a href="https://allure.autotests.cloud/">
+  <a href="https://allure.autotests.cloud/project/5254/test-cases?treeId=10276">
     <img src="https://img.shields.io/badge/📋_Allure_TestOps-перейти-blue" alt="Allure TestOps">
   </a>
   <br>
-  <a href="https://jira.autotests.cloud/">
+   <a href="https://jira.autotests.cloud/secure/RapidBoard.jspa?rapidView=56">
     <img src="https://img.shields.io/badge/📝_Jira-перейти-blue" alt="Jira">
   </a>
 </p>
