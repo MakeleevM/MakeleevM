@@ -37,13 +37,13 @@
 
 | Проект | Описание | Стек |
 |--------|----------|------|
-| [Makeleev_HW14_Allure_Readme](https://github.com/MakeleevM/Makeleev_HW14_Allure_Readme) | Автотесты для benderfrai.ru | Selenide, JUnit 5, Allure, Jenkins, Selenoid |
+| [Makeleev_HW14_Allure_Readme](https://github.com/MakeleevM/Makeleev_HW14_Allure_Readme) | Автотесты для [benderfrai.ru](https://benderfrai.ru) | Selenide, JUnit 5, Allure, Jenkins, Selenoid |
 
 ---
 
 ### 🔗 Интеграции проекта:
 
-<p>
+<p align="center">
   <a href="https://jenkins.autotests.cloud/view/java_students/job/41-Mace133v-Unit14/">
     <img src="https://img.shields.io/badge/🔧_Сборка_в_Jenkins-перейти-blue" alt="Jenkins Build">
   </a>
@@ -73,6 +73,6 @@
     <img src="https://img.shields.io/badge/💬_Telegram-%40Mace133v-blue" alt="Telegram">
   </a>
   <a href="https://github.com/MakeleevM">
-    <img src="https://img.shields.io/badge/🐙_GitHub-MakeleevM-black" alt="GitHub">
+    <img src="https://img.shields.io/badge/🐙_GitHub-MakeleevM-blue" alt="GitHub">
   </a>
 </p>
